@@ -2,6 +2,6 @@
 CHARMM PSF Generator from RTF
 
 Usage:
-python rtftopsf.py --help
+```python rtftopsf.py --help```
 
-python rtftopsf.py -s streamfile -r RESNAME
+```python rtftopsf.py -s streamfile -r RESNAME```
